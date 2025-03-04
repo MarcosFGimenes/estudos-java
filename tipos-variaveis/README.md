@@ -1,18 +1,25 @@
-## Getting Started
+# Tipos de Variáveis em Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+### Olá! Se você chegou até aqui, quer dizer que está explorando meu repositório de estudos em Java, seja muito bem-vindo! Esse projeto tem como objetivo demonstrar o uso de diferentes tipos de variáveis em Java, além da interação com o usuário através do console. Nada melhor do que aprender na prática, não é mesmo?
 
-## Folder Structure
+## 📌 Sobre o projeto
+### Esse pequeno programa em Java solicita informações do usuário, como nome, idade, CPF, altura, sexo e estado civil, armazenando-as em variáveis adequadas para cada tipo de dado. No final, ele retorna todas as informações inseridas. Simples, mas uma ótima forma de aprender os conceitos básicos de variáveis!
 
-The workspace contains two folders by default, where:
+## 🚀 Tecnologias utilizadas
+- Java
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 📥 Como executar
+1. Certifique-se de ter o Java instalado em sua máquina.
+2. Clone este repositório ou copie o código.
+3. Compile e execute o arquivo `TiposVariaveis.java` em seu terminal ou IDE favorita.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## 📝 O que aprendi com esse projeto
+- Como declarar variáveis de diferentes tipos em Java.
+- Como capturar entrada do usuário utilizando a classe `Scanner`.
+- Como exibir informações no console.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+# 🔗 Links
+### Quer trocar uma ideia sobre Java, tecnologia ou desenvolvimento? Conecte-se comigo!
+[![portfolio](https://img.shields.io/badge/meu_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://marcosgimenes.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-farinelli-gimenes-73291627a/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarcosFGimenes)
